@@ -210,19 +210,6 @@ export default function Customer() {
     required
   />
 
-    {/* 연락처 */}
-    <label className={styles.fieldLabel}>
-    생년월일<span className={styles.required}></span>
-  </label>
-  <input
-    type="tel"
-    name="phone"
-    value={form.phone}
-    onChange={handleChange}
-    placeholder="950527"
-    required
-  />
-
   {/* 문의내용 */}
   <label className={styles.fieldLabel}>문의 내용
   <span className={styles.required}></span>
