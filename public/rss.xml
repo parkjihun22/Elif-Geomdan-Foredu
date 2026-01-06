@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>엘리프검단포레듀</title>
+    <title>엘리프 검단 포레듀 공식 홈페이지 RSS</title>
     <link>https://www.ds-elifapt.com/</link>
-    <description>두산위브더제니스 청주 센트럴파크 │ ☎️(대표)1533-8848 │ 두산위브 청주 센트럴파크 │ 견본주택 │ 모델하우스 │ 위치 │ 청약 │ 분양 │ 분양가 │ 공급정보 │ 잔여세대 문의 │ 고객센터 │ 방문예약</description>
+    <description>엘리프 검단 포레듀 │ 인천 서구 검단신도시 │ 분양정보 │ 청약 │ 공급안내 │ 모집공고 │ 분양일정 │ 입지환경 │ 프리미엄 │ 단지안내 │ 평면도 │ E-모델하우스 │ 언론보도 │ 관심고객등록</description>
     <language>ko-KR</language>
     <atom:link href="https://www.ds-elifapt.com/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>모바일 상담 예약</title>
+      <title>관심고객등록 · 상담예약</title>
       <link>https://www.ds-elifapt.com/Promotion/Customer</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/Promotion/Customer</guid>
-      <description><![CDATA[청주 원도심 핵심 입지의 ‘두산위브더제니스 청주 센트럴파크’. 분양·입지·단지·평면·홍보영상·언론보도와 상담예약 정보를 제공합니다. 총 1,618세대 하이엔드 대단지의 다양한 소식을 빠르게 확인하세요.]]></description>
+      <description><![CDATA[엘리프 검단 포레듀 관심고객 등록으로 모델하우스 오픈·방문예약, 청약/분양 일정, 공급정보 등 주요 소식을 가장 먼저 받아보세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
@@ -19,7 +19,7 @@
       <title>브랜드 소개</title>
       <link>https://www.ds-elifapt.com/Brand/intro</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/Brand/intro</guid>
-      <description><![CDATA[두산건설 하이엔드 브랜드 위브 더 제니스(WE’VE THE ZENITH)의 철학과 가치를 소개합니다.]]></description>
+      <description><![CDATA[엘리프(ELIF) 브랜드 철학과 주거 가치, 단지에 적용되는 디자인·설계 기준을 소개합니다.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
@@ -27,28 +27,28 @@
       <title>홍보영상</title>
       <link>https://www.ds-elifapt.com/Brand/video</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/Brand/video</guid>
-      <description><![CDATA[두산위브더제니스 청주 센트럴파크의 단지 설계와 라이프스타일, 커뮤니티 가치를 홍보영상으로 확인하세요.]]></description>
+      <description><![CDATA[엘리프 검단 포레듀의 단지 설계와 라이프스타일, 입지 프리미엄을 홍보영상으로 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
     <item>
-      <title>사업 안내</title>
+      <title>사업안내</title>
       <link>https://www.ds-elifapt.com/BusinessGuide/intro</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/BusinessGuide/intro</guid>
-      <description><![CDATA[충청북도 청주시 흥덕구 신봉동 528번지 일원. 총 1,618세대(지하 2층~지상 31층, 18개동), 전용 59·74·84·114㎡ 구성 등 사업 개요를 안내합니다.]]></description>
+      <description><![CDATA[엘리프 검단 포레듀 사업개요 안내: 검단신도시 입지, 단지 규모, 주거 타입 등 핵심 정보를 한눈에 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
     <item>
-      <title>분양 일정</title>
+      <title>분양일정</title>
       <link>https://www.ds-elifapt.com/BusinessGuide/plan</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/BusinessGuide/plan</guid>
-      <description><![CDATA[특별공급·1·2순위 접수, 당첨자 발표 및 정당계약 등 분양(청약) 일정을 한눈에 확인하세요.]]></description>
+      <description><![CDATA[특별공급·1·2순위 접수, 당첨자 발표, 정당계약 등 엘리프 검단 포레듀 분양(청약) 일정을 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
     <item>
-      <title>공급 안내</title>
+      <title>공급안내</title>
       <link>https://www.ds-elifapt.com/SalesInfo/guide</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/SalesInfo/guide</guid>
       <description><![CDATA[공급 세대수·면적, 청약 자격 및 필요서류 등 공급 관련 핵심 정보를 안내합니다.]]></description>
@@ -56,7 +56,7 @@
     </item>
 
     <item>
-      <title>모집공고 안내</title>
+      <title>모집공고안내</title>
       <link>https://www.ds-elifapt.com/SalesInfo/announcement</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/SalesInfo/announcement</guid>
       <description><![CDATA[공급 규모·공급면적·분양가, 청약 일정·자격, 당첨자 발표·정당계약 및 유의사항 등 모집공고 주요 내용을 안내합니다.]]></description>
@@ -64,18 +64,18 @@
     </item>
 
     <item>
-      <title>인지세 납부 안내</title>
+      <title>인지세 납부안내</title>
       <link>https://www.ds-elifapt.com/SalesInfo/stampTax</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/SalesInfo/stampTax</guid>
-      <description><![CDATA[계약서 작성 시 부과되는 인지세의 개념과 세액 기준, 납부 절차 및 유의사항을 안내합니다.]]></description>
+      <description><![CDATA[분양(청약) 계약 시 필요한 인지세 안내: 납부 기준, 절차, 준비사항과 유의사항을 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
     <item>
-      <title>입지 환경</title>
+      <title>입지환경</title>
       <link>https://www.ds-elifapt.com/LocationEnvironment/intro</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/LocationEnvironment/intro</guid>
-      <description><![CDATA[청주 원도심 핵심 입지. 주요 도로망과 생활 인프라, 녹지 환경을 함께 누리는 입지환경을 확인하세요.]]></description>
+      <description><![CDATA[검단신도시 핵심 입지, 확장되는 교통망과 생활 인프라, 공원·수변 등 쾌적한 환경을 갖춘 입지환경을 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
@@ -83,7 +83,7 @@
       <title>프리미엄</title>
       <link>https://www.ds-elifapt.com/LocationEnvironment/primium</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/LocationEnvironment/primium</guid>
-      <description><![CDATA[총 1,618세대 하이엔드 브랜드 대단지, 도심 생활 인프라, 녹지 환경, 커뮤니티 등 두산위브더제니스 청주 센트럴파크의 핵심 가치를 소개합니다.]]></description>
+      <description><![CDATA[엘리프 검단 포레듀 프리미엄: 쾌적한 단지 설계, 교통·생활 인프라, 자연환경 등 핵심 가치를 소개합니다.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
@@ -91,12 +91,12 @@
       <title>단지 배치도</title>
       <link>https://www.ds-elifapt.com/ComplexGuide/intro</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/ComplexGuide/intro</guid>
-      <description><![CDATA[단지 배치·조경·커뮤니티·주차·보행 동선 계획을 한눈에 확인하세요.]]></description>
+      <description><![CDATA[동별 위치, 조경과 커뮤니티, 주차·보행 동선 등 단지 배치 계획을 한눈에 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
     <item>
-      <title>동·호수 배치</title>
+      <title>호수 배치도</title>
       <link>https://www.ds-elifapt.com/ComplexGuide/detailintro</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/ComplexGuide/detailintro</guid>
       <description><![CDATA[동·호수 배치 정보를 제공합니다. 세대별 위치, 라인·스택 구성, 코어 동선 등을 확인하세요.]]></description>
@@ -112,58 +112,58 @@
     </item>
 
     <item>
-      <title>59A</title>
+      <title>64A 평면도</title>
       <link>https://www.ds-elifapt.com/FloorPlan/59A</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/FloorPlan/59A</guid>
-      <description><![CDATA[59A 타입의 평면 구성과 공간 활용 포인트를 확인하세요.]]></description>
+      <description><![CDATA[엘리프 검단 포레듀 64A 타입 평면도와 공간 구성 포인트를 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
     <item>
-      <title>59B</title>
+      <title>64B 평면도</title>
       <link>https://www.ds-elifapt.com/FloorPlan/59B</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/FloorPlan/59B</guid>
-      <description><![CDATA[59B 타입의 평면 구성과 공간 활용 포인트를 확인하세요.]]></description>
+      <description><![CDATA[엘리프 검단 포레듀 64B 타입 평면도와 공간 구성 포인트를 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
     <item>
-      <title>74</title>
+      <title>84A 평면도</title>
       <link>https://www.ds-elifapt.com/FloorPlan/84A</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/FloorPlan/84A</guid>
-      <description><![CDATA[74 타입의 평면 정보와 공간 활용 포인트를 확인하세요.]]></description>
+      <description><![CDATA[엘리프 검단 포레듀 84A 타입 평면도와 공간 구성 포인트를 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
     <item>
-      <title>84A</title>
+      <title>84B 평면도</title>
       <link>https://www.ds-elifapt.com/FloorPlan/84B</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/FloorPlan/84B</guid>
-      <description><![CDATA[84A 타입의 평면 정보와 공간 활용 포인트를 확인하세요.]]></description>
+      <description><![CDATA[엘리프 검단 포레듀 84B 타입 평면도와 공간 구성 포인트를 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
     <item>
-      <title>84B</title>
+      <title>98A 평면도</title>
       <link>https://www.ds-elifapt.com/FloorPlan/114A</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/FloorPlan/114A</guid>
-      <description><![CDATA[84B 타입의 평면 정보와 공간 활용 포인트를 확인하세요.]]></description>
+      <description><![CDATA[엘리프 검단 포레듀 98A 타입 평면도와 공간 구성 포인트를 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
     <item>
-      <title>114</title>
+      <title>98B 평면도</title>
       <link>https://www.ds-elifapt.com/FloorPlan/114B</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/FloorPlan/114B</guid>
-      <description><![CDATA[114 타입의 평면 정보와 공간 활용 포인트를 확인하세요.]]></description>
+      <description><![CDATA[엘리프 검단 포레듀 98B 타입 평면도와 공간 구성 포인트를 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
     <item>
-      <title>E-모델하우스</title>
+      <title>E-모델하우스 · VR</title>
       <link>https://www.ds-elifapt.com/FloorPlan/Emodel</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/FloorPlan/Emodel</guid>
-      <description><![CDATA[온라인으로 만나는 E-모델하우스. VR 가상 투어와 세대별 평면도·인테리어를 확인하세요.]]></description>
+      <description><![CDATA[온라인으로 만나는 엘리프 검단 포레듀 E-모델하우스. VR 가상 투어와 타입별 평면도·인테리어를 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
@@ -171,7 +171,7 @@
       <title>언론보도</title>
       <link>https://www.ds-elifapt.com/Promotion/Press</link>
       <guid isPermaLink="true">https://www.ds-elifapt.com/Promotion/Press</guid>
-      <description><![CDATA[두산위브더제니스 청주 센트럴파크 언론보도 모음. 분양 및 단지 관련 최신 기사와 보도자료를 확인하세요.]]></description>
+      <description><![CDATA[엘리프 검단 포레듀 언론보도 모음. 분양 및 단지 관련 최신 기사와 보도자료를 확인하세요.]]></description>
       <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
     </item>
 
