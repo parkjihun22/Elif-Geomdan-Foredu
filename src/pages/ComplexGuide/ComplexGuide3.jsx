@@ -56,7 +56,7 @@ const ComplexGuide3 = () => {
     name="description"
     content="엘리프 검단 포레듀의 커뮤니티 시설을 소개합니다. 피트니스센터, 실내 골프연습장, 작은도서관(북카페), 주민 라운지 등 입주민의 일상을 더 풍성하게 만드는 다양한 편의시설을 만나보세요."
   />
-  <link rel="canonical" href="https://www.ds-elifapt.com/ComplexGuide/community" />
+  <link rel="canonical" href="https://www.bunyang-114.com/ComplexGuide/community" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -67,8 +67,8 @@ const ComplexGuide3 = () => {
     property="og:description"
     content="피트니스·실내골프·작은도서관·라운지 등 다채로운 커뮤니티로 일상의 가치를 높이는 엘리프 검단 포레듀."
   />
-  <meta property="og:url" content="https://www.ds-elifapt.com/ComplexGuide/community" />
-  <meta property="og:image" content="https://www.ds-elifapt.com/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.bunyang-114.com/ComplexGuide/community" />
+  <meta property="og:image" content="https://www.bunyang-114.com/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

@@ -59,7 +59,7 @@ const ComplexGuide1 = () => {
         name="description"
         content="엘리프 검단 포레듀 청약안내를 한눈에 확인하세요. 특별공급·1·2순위 청약 일정, 자격요건, 필요서류와 인터넷 청약 절차를 안내합니다."
       />
-      <link rel="canonical" href="https://www.ds-elifapt.com/SalesInfo/SubscriptionGuide" />
+      <link rel="canonical" href="https://www.bunyang-114.com/SalesInfo/SubscriptionGuide" />
       <meta name="robots" content="index,follow" />
     </Helmet>
 

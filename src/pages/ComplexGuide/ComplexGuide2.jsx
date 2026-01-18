@@ -57,7 +57,7 @@ const ComplexGuide1 = () => {
     name="description"
     content="엘리프 검단 포레듀 동·호수 배치도를 통해 세대별 위치와 조망, 일조 방향, 프라이버시를 고려한 설계를 확인하세요. 라인·스택 구성 및 코어 동선 정보를 한눈에 제공합니다."
   />
-  <link rel="canonical" href="https://www.ds-elifapt.com/ComplexGuide/detailintro" />
+  <link rel="canonical" href="https://www.bunyang-114.com/ComplexGuide/detailintro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
     property="og:description"
     content="세대별 위치와 조망·일조, 프라이버시를 고려한 엘리프 검단 포레듀 동·호수 배치를 확인하세요. 라인·스택 구성과 코어 동선 안내."
   />
-  <meta property="og:url" content="https://www.ds-elifapt.com/ComplexGuide/detailintro" />
-  <meta property="og:image" content="https://www.ds-elifapt.com/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.bunyang-114.com/ComplexGuide/detailintro" />
+  <meta property="og:image" content="https://www.bunyang-114.com/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />
