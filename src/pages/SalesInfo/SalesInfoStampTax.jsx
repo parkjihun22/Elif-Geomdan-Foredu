@@ -59,7 +59,7 @@ const ComplexGuide1 = () => {
             name="description"
             content="두산위브 센트럴파크 강화 분양(계약) 시 필요한 인지세 납부 기준과 절차, 금액 및 유의사항을 한눈에 확인하세요."
           />
-          <link rel="canonical" href="https://www.bunyang-114.com/SalesInfo/stampTax" />
+          <link rel="canonical" href="https://www.ds-elifapt.com/SalesInfo/stampTax" />
           <meta name="robots" content="index,follow" />
         </Helmet>
 

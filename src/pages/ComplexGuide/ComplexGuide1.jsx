@@ -58,7 +58,7 @@ const ComplexGuide1 = () => {
     content="엘리프 검단 포레듀 단지배치도를 통해 동별 위치, 조경과 커뮤니티, 주차·보행 동선 설계를 확인하세요. 쾌적한 생활을 고려한 단지 배치를 안내합니다."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.bunyang-114.com/ComplexGuide/intro" />
+  <link rel="canonical" href="https://www.ds-elifapt.com/ComplexGuide/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
     property="og:description"
     content="동·호 배치, 조경·커뮤니티, 주차·보행 동선까지 쾌적함을 높인 엘리프 검단 포레듀 단지 배치를 확인하세요."
   />
-  <meta property="og:url" content="https://www.bunyang-114.com/ComplexGuide/intro" />
-  <meta property="og:image" content="https://www.bunyang-114.com/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.ds-elifapt.com/ComplexGuide/intro" />
+  <meta property="og:image" content="https://www.ds-elifapt.com/img/og/complex.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -80,8 +80,8 @@ const ComplexGuide1 = () => {
     name="twitter:description"
     content="조경·커뮤니티·주차·보행 동선을 고려한 엘리프 검단 포레듀 단지배치도 안내."
   />
-  <meta name="twitter:image" content="https://www.bunyang-114.com/img/og/complex.jpg" />
-  <meta name="twitter:url" content="https://www.bunyang-114.com/ComplexGuide/intro" />
+  <meta name="twitter:image" content="https://www.ds-elifapt.com/img/og/complex.jpg" />
+  <meta name="twitter:url" content="https://www.ds-elifapt.com/ComplexGuide/intro" />
 
   {/* JSON-LD */}
   <script type="application/ld+json">
@@ -89,20 +89,20 @@ const ComplexGuide1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "엘리프 검단 포레듀 - 단지배치도",
-      "url": "https://www.bunyang-114.com/ComplexGuide/intro",
+      "url": "https://www.ds-elifapt.com/ComplexGuide/intro",
       "description":
         "엘리프 검단 포레듀 단지배치도: 동별 위치, 조경 계획, 커뮤니티 시설과 주차·보행 동선 설계를 확인하세요.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.bunyang-114.com/img/og/complex.jpg",
+        "contentUrl": "https://www.ds-elifapt.com/img/og/complex.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.bunyang-114.com/" },
-          { "@type": "ListItem", "position": 2, "name": "단지배치도", "item": "https://www.bunyang-114.com/ComplexGuide/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.ds-elifapt.com/" },
+          { "@type": "ListItem", "position": 2, "name": "단지배치도", "item": "https://www.ds-elifapt.com/ComplexGuide/intro" }
         ]
       }
     })}

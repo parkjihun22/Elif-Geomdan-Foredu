@@ -103,7 +103,7 @@ const LocationEnvironment1 = () => {
           content="검단신도시 핵심 입지, 엘리프 검단 포레듀의 입지환경을 확인하세요. 확장되는 광역 교통망과 생활 인프라, 단지 인접 공원·수변 산책로 등 쾌적한 자연 환경까지 한 번에 누립니다."
         />
         <meta name="robots" content="index,follow" />
-        <link rel="canonical" href="https://www.bunyang-114.com/LocationEnvironment/intro" />
+        <link rel="canonical" href="https://www.ds-elifapt.com/LocationEnvironment/intro" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
@@ -113,8 +113,8 @@ const LocationEnvironment1 = () => {
           property="og:description"
           content="검단신도시 프리미엄 입지: 확장되는 교통망과 생활 인프라, 공원·수변 녹지 환경을 모두 갖춘 엘리프 검단 포레듀."
         />
-        <meta property="og:url" content="https://www.bunyang-114.com/LocationEnvironment/intro" />
-        <meta property="og:image" content="https://www.bunyang-114.com/img/og/location.jpg" />
+        <meta property="og:url" content="https://www.ds-elifapt.com/LocationEnvironment/intro" />
+        <meta property="og:image" content="https://www.ds-elifapt.com/img/og/location.jpg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
 
@@ -125,8 +125,8 @@ const LocationEnvironment1 = () => {
           name="twitter:description"
           content="확장되는 교통망, 생활 인프라, 공원·수변 녹지까지 함께 누리는 검단신도시 입지."
         />
-        <meta name="twitter:image" content="https://www.bunyang-114.com/img/og/location.jpg" />
-        <meta name="twitter:url" content="https://www.bunyang-114.com/LocationEnvironment/intro" />
+        <meta name="twitter:image" content="https://www.ds-elifapt.com/img/og/location.jpg" />
+        <meta name="twitter:url" content="https://www.ds-elifapt.com/LocationEnvironment/intro" />
 
         {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
         <script type="application/ld+json">
@@ -134,20 +134,20 @@ const LocationEnvironment1 = () => {
             "@context": "https://schema.org",
             "@type": "WebPage",
             "name": "엘리프 검단 포레듀 - 입지환경",
-            "url": "https://www.bunyang-114.com/LocationEnvironment/intro",
+            "url": "https://www.ds-elifapt.com/LocationEnvironment/intro",
             "description":
               "검단신도시 핵심 입지, 확장되는 교통망과 생활 인프라, 단지 인접 공원·수변 산책로 등 쾌적한 자연 환경을 갖춘 엘리프 검단 포레듀의 입지환경.",
             "primaryImageOfPage": {
               "@type": "ImageObject",
-              "contentUrl": "https://www.bunyang-114.com/img/og/location.jpg",
+              "contentUrl": "https://www.ds-elifapt.com/img/og/location.jpg",
               "width": 1200,
               "height": 630
             },
             "breadcrumb": {
               "@type": "BreadcrumbList",
               "itemListElement": [
-                { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.bunyang-114.com/" },
-                { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.bunyang-114.com/LocationEnvironment/intro" }
+                { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.ds-elifapt.com/" },
+                { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.ds-elifapt.com/LocationEnvironment/intro" }
               ]
             }
           })}
