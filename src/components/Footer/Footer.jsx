@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "엘리프검단포레듀", url: "https://www.ds-elifapt.com/" },
+  { name: "엘리프검단포레듀", url: "https://www.dwbsongs.com/" },
 ];
 
 const Footer = () => {

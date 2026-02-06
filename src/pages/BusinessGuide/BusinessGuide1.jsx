@@ -68,7 +68,7 @@ const BusinessGuide1 = () => {
           content="인천광역시 서구 검단신도시 AA32블록에 들어서는 엘리프 검단 포레듀의 사업 개요를 확인하세요. 총 669세대(지하 3층~지상 15층, 11개동), 전용 64·84·98·110㎡P 구성, 입지·규모·타입 정보 안내."
         />
         <meta name="robots" content="index,follow" />
-        <link rel="canonical" href="https://www.ds-elifapt.com/BusinessGuide/intro" />
+        <link rel="canonical" href="https://www.dwbsongs.com/BusinessGuide/intro" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
@@ -78,8 +78,8 @@ const BusinessGuide1 = () => {
           property="og:description"
           content="검단신도시의 쾌적한 주거환경과 미래가치, 총 669세대 프리미엄 단지. 위치·규모·타입 구성 정보를 한눈에 확인하세요."
         />
-        <meta property="og:url" content="https://www.ds-elifapt.com/BusinessGuide/intro" />
-        <meta property="og:image" content="https://www.ds-elifapt.com/img/og/business.jpg" />
+        <meta property="og:url" content="https://www.dwbsongs.com/BusinessGuide/intro" />
+        <meta property="og:image" content="https://www.dwbsongs.com/img/og/business.jpg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
 
@@ -90,8 +90,8 @@ const BusinessGuide1 = () => {
           name="twitter:description"
           content="엘리프 검단 포레듀 사업 개요: 총 669세대, 전용 64·84·98·110㎡P 구성, 검단신도시 입지와 규모·타입 정보 안내."
         />
-        <meta name="twitter:image" content="https://www.ds-elifapt.com/img/og/business.jpg" />
-        <meta name="twitter:url" content="https://www.ds-elifapt.com/BusinessGuide/intro" />
+        <meta name="twitter:image" content="https://www.dwbsongs.com/img/og/business.jpg" />
+        <meta name="twitter:url" content="https://www.dwbsongs.com/BusinessGuide/intro" />
 
         {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
         <script type="application/ld+json">
@@ -99,20 +99,20 @@ const BusinessGuide1 = () => {
             "@context": "https://schema.org",
             "@type": "WebPage",
             "name": "엘리프 검단 포레듀 - 사업안내",
-            "url": "https://www.ds-elifapt.com/BusinessGuide/intro",
+            "url": "https://www.dwbsongs.com/BusinessGuide/intro",
             "description":
               "인천광역시 서구 검단신도시 AA32블록에 조성되는 엘리프 검단 포레듀의 사업 개요와 위치, 규모, 타입 구성 정보를 제공합니다.",
             "primaryImageOfPage": {
               "@type": "ImageObject",
-              "contentUrl": "https://www.ds-elifapt.com/img/og/business.jpg",
+              "contentUrl": "https://www.dwbsongs.com/img/og/business.jpg",
               "width": 1200,
               "height": 630
             },
             "breadcrumb": {
               "@type": "BreadcrumbList",
               "itemListElement": [
-                { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.ds-elifapt.com/" },
-                { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.ds-elifapt.com/BusinessGuide/intro" }
+                { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.dwbsongs.com/" },
+                { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.dwbsongs.com/BusinessGuide/intro" }
               ]
             }
           })}
